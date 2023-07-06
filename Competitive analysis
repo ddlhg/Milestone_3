@@ -1,0 +1,87 @@
+Competitive analysis:
+Since there are few platforms exclusively dedicated to carpooling among college
+students, we will compare websites that offer either carpooling services or only students
+feature. The competitive analysis will compare five websites focusing on their five main
+features: design, security, usability, feedback, and performance. Using a numerical scale
+from 1 to 5 where 1 is bad, 2 is poor, 3 is fair, 4 is good, and 5 is excellent.
+
+RideMate Uber Lyft Zimride Waze carpool Scoop
+Design 5.0 4.0 4.0 3.5 3.5 3.5
+Security 5.0 3.5 4.0 3.5 4.0 3.5
+Usability 4.5 4.0 4.0 3.5 3.5 3.5
+Feedback 4.5 3.5 4.0 3.0 3.0 3.0
+Performance 4.0 4.0 4.0 3.5 3.5 3.5
+Search 5.0 4.5 4.5 3.5 4.0 3.0
+Content 4.0 5.0 5.0 3.0 4.0 2.0
+Average 4.6 4.1 4.2 3.3 3.6 3.1
+
+RideMate ( 4.6 )
+RideMate stands out with its user-friendly and straightforward design, ensuring
+that features are easily accessible and intuitive for users. The website offers a seamless
+and uncomplicated booking process with contrasting colors in its design so users can
+have an intuitive and inclusive interface that simplifies the carpooling experience.
+RideMate ensures that ride-sharing is limited to students from the same university
+implementing user authentication through email, school ID verification, and a third-party
+authentication app. This stringent authentication process minimizes safety concerns by
+significantly reducing the likelihood of unauthorized individuals gaining access to the
+platform. This allows students to connect with peers who are likely to share similar
+schedules, locations, and interests, fostering a sense of camaraderie and convenience
+within the university community. The website's content is based on ride availability and
+ratings. Search and navigation are fast and operate with autocomplete and breadcrumbs
+features. By focusing on a specific university or a limited number of universities,
+RideMate can optimize its services by identifying popular routes and pickup/drop-off
+points.
+Uber ( 4.1 ) https://www.uber.com/
+Uber has a clean design and navigation, but sometimes some users find the app
+overwhelming due to the abundance of features. Despite the implementation of GPS
+tracking and in-app emergency assistance, incidents involving drivers have been
+reported, highlighting the importance of enhancing safety measures. Uber's performance
+and rating system require substantial improvement. The lack of available drivers in
+specific locations often leads to prolonged waiting times for customers seeking rides.
+Moreover, the rating system is susceptible to manipulation, as there is a lack of control
+over unfair ratings that may be influenced by factors unrelated to the ride experience.
+These issues highlight the need for more effective measures to ensure a reliable and fair
+system for drivers and passengers.
+Lyft ( 4.0 ) https://www.lyft.com/
+As a direct competitor to Uber, Lyft shares several similarities in its overall
+performance and usability. Just like Uber, Lyft faces challenges in terms of security
+measures, objective ratings, and driver availability based on location. In some instances,
+Lyft may have fewer drivers compared to Uber since the latter is more popular. One
+characteristic of Lyft is its vibrant design which may be visually appealing to many users.
+However, it can sometimes result in a less intuitive user experience.
+Zimride ( 3.4 ) https://www.zimride.com/
+Although Zimride initially started as a public ride-hailing app, it has transitioned
+to mainly offering ride-sharing services to universities and businesses. Despite its shift in
+market target, it is not a platform exclusively for students like RideMate. Zimride's
+design lacks the advanced features and visual appeal found in more popular ride-sharing
+platforms such as Uber or Lyft.
+Waze Carpool ( 3.5 ) https://www.waze.com/
+Even though Waze Carpool connects users within a community, there is a limited
+additional security measure outside the verified profiles by pictures of commuters and
+drivers. Despite being fairly known, Waze Carpool's design feels less polished and its
+rating system may have fewer entries in comparison to Uber or Lyft. Like its competitors,
+Waze Carpool does not specifically target a particular market. Therefore, college students
+using this platform for carpooling should take into consideration that it is a public
+service, and they will not be riding exclusively with fellow students.
+Scoop ( 3.4 ) https://www.scoopforwork.com/
+Scoop's greatest disadvantage lies in its limited offering of rides exclusively for
+individuals who are meeting at the same time and location. The platform operates by
+scheduling rides through the use of polls by determining when people want to meet at the
+office. While this system structure enables efficient coordination among riders, it also
+restricts the availability of rides, potentially posing challenges for those seeking more
+flexible transportation options. Scoop's visual appeal may be lacking, characterized by
+dull colors and an outdated design. Additionally, due to its smaller user base, the number
+of ratings and reviews on the platform is comparatively lower than on other ride-sharing
+platforms. Although Scoop implements certain safety measures such as user verification
+and ratings, it offers fewer additional safety features in comparison to Uber and Lyft.
+Planned Advantages:
+RideMate concentrates on students' safety and convenience, so some of the future features to be implemented 
+on this site include but are not exclusive to reservations, university specifications, advance schedule availability, 
+special offers, chat, attend events rides, and female-only rides. For now, RideMate is focused on offering a transport
+platform for students at Florida Atlantic University, Florida Atlantic Highschool, and Palm Beach State College at Boca Raton. 
+We will soon offer the same services to more universities and college campuses. RideMate can tailor its features to meet
+the specific needs of university students. For example, it could offer features like in-app communication platforms,
+making it easier for students to coordinate rides, join clubs, or attend events. RideMate could collaborate with local
+businesses or university organizations to provide exclusive discounts or rewards for using the app. This can improve 
+the overall value proposition for students and promote the platform within the university community.
+
