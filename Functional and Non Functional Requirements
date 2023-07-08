@@ -35,3 +35,19 @@ Atlantic University only. The initial version may cater for the Boca Raton campu
 5. Security Requirements 
 5.1 The security requirements will require a FAU email to login  along with a password
 5.2 The use of firebase UI authentication will be used to ensure only FAU assosiated students are allowed to use the service.
+
+6.Portability
+The website will be available for use on desktops, laptops, and tablets via a web browser eventually there are plans to extend this to an Android and an iOS app.
+
+7.Supportability
+The coding to be used will be HTML and CSS. The Figma app will be used for the testing page.
+
+8.Availability
+8.1 The system must be reliable ad available 24 hours a day 365 days a year.
+8.2 Tech support will be available via an email system.
+8.3 All attempts will be made to ensure continuous if there is a need for any downtime communication will be sent out to all users.
+
+9.Fault Tolerance 
+All attempts will be made to handle any sort of exception handling that may be needed for this app. All attempts will be made to handle this within the allocated resources.
+
+
