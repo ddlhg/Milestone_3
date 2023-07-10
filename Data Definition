@@ -1,0 +1,55 @@
+Data Definition:
+Name Meaning Usage Comment
+User Actor Use Case scenarios The person accessing the
+website
+Review Service Site user service Allows users to rate Student car
+owners and fellow passengers
+Max Service Site user/car owner
+service
+Allows users to input the max
+amount of people they would be
+comfortable carpooling with.
+Also allows the owner of the
+car to input how many people
+can fit within their car
+Search Service Site user service Allows users to search for rides
+available near them
+Login Service Site user service Allows users to have the ability
+to carpool while sharing their
+ratings with possible future
+fellow passengers
+Filter Service Site user service Allows users to filter things
+such as max and distance
+between them and other cars
+RideMate User Interface User interface Website name and front-end
+display for user interaction
+Znumber Data Use Case Scenarios Must have a valid Z-number to
+use the site's services
+System Platform
+Hardware
+Use Case Scenarios The database, with all code and
+front-end and backend hosting
+Resource Data and
+hardware
+Use Case Scenarios /
+Hardware
+Hardware / Data on the website
+Invalid User Actor Use case scenarios Definition of a non-university
+person
+Login Service Site user Service Allows user access to the
+system for use
+Server Platform
+Hardware
+Use Case Scenarios Where site and data stored
+Homepage User Interface User Interface The landing page of the site
+Website User Interface User Interface Front end for user interaction
+API Program
+Interface
+Use Case scenarios The interface between the front
+and back end
+Reserve/Reser
+vation
+Use Case
+scenario
+Use Case Scenario When a ride is requested and
+booked
