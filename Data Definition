@@ -53,3 +53,14 @@ Use Case
 scenario
 Use Case Scenario When a ride is requested and
 booked
+Ride summary
+User
+message/
+interface
+Use case scenario
+Shows the ride details such as location, time, driver’s name and car details.
+Ride state
+User interface
+Use case scenario
+Lets the user know the status of the ride (started or completed).
+
