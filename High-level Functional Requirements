@@ -1,0 +1,26 @@
+# Accounts 
+- Ridemate will have a system for creating and managing user accounts. Ensuring to properly store account info in a safe manner while preventing the creation of accounts with duplicate usernames and emails, all while allowing for account recovery in case of forgotten passwords.
+
+- ## Signups 
+- taking in info from a user to create a username, password, and email for account recovery purposes.
+
+- ## Logins 
+-  taking in a user’s username and password.
+
+- ## Recovery 
+- in the case of a forgotten password the system will send an email to the associated account to create a new password.
+
+# Getting a Ride 
+- A user will have the ability to check for available rides in their area for either pick or drop-off from school or a designated location.
+
+- ## Mapping 
+- the site will be able to display a map of the local area around the user to check for available rides.
+
+- ## Tracking 
+- the systems will be able to keep track of currently available rides for users to call upon.
+
+# Scheduling 
+- The system will allow users to make scheduled pick-ups and drop-offs with other riders.
+
+- # Calendar 
+- A calendar for scheduling rides to work within a user’s schedule, and to allow drivers to indicate when they are available for service.
