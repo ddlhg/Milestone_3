@@ -1,0 +1,17 @@
+1. **Programming Languages: Javascript, HTML, CSS** - These will be the languages used in the development of the website's web page and front end to serve as an interface for the user.
+
+1. **Frameworks: React, Node** - Javascript frameworks that allow interactions between the website and its users. React will make the basis of the front-end interaction, like user login and registration. Whilst node will be the framework that will allow for management of the backend.
+
+    - **Google Login:** https://www.npmjs.com/package/react-google-login - Used to communicate Google login data between both front and backends.
+
+    - **Additional Library:** https://chakra-ui.com/ - libraries to aid in the development and management of primarily front-end javascript frameworks.
+
+1. **Database: Firebase** - Used for user authentication and holding data long-term
+
+1. **Development Tools: Visual Studio, GitHub** - Tools used to allow for a steady development flow as GitHub will host the project and allow for project members to work on their portions individually, and visual studio as a code editor for html, javascript, and CSS.
+
+1. **Core APIs: Uber API** - The Uber API will be used to allow for the tracking, managing, and scheduling of rides at designated or user-specified locations.
+
+1. **Supported Browser: Chromium browsers** - As the front end of our service is a web page, the website will be developed to support modern browsers and especially browsers based on Chromium, such as google chrome, opera, and Microsoft Edge.
+
+1. **Bootstrap Templates:** https://getbootstrap.com/ - A bootstrap template will help to bring a friendly, interactive, and intuitive design to our site.
